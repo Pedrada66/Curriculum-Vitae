@@ -1,0 +1,50 @@
+body{
+    background-color: #edf6f9;
+}
+
+#Nome{
+    color: #006d77;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+    color: #089c70;
+    font-family: sans-serif;
+}
+
+.destaque{
+    background-color: #006d77;
+    color: aliceblue;
+}
+
+footer{
+    background-color: #006d77;
+    text-align: center;
+    font-style: italic;
+}
+
+a{
+    color: black;
+}
+
+#Foto{
+    text-align: center;
+}
+
+a[href="https://www.linkedin.com/in/pedrocopposilva"]:hover, a[href="mailto:pedrocopposilva@gmail.com"]:hover{
+    color:blue;
+}
+
+#Github:hover{
+    color: blue;
+}
+
+#ODS{
+    font-style: bold;
+}
+
+.negrito{
+    font-weight: bold;
+}
